@@ -18,9 +18,9 @@ loop = asyncio.get_event_loop()
 
 TOKEN = '7579032055:AAFrb84INwat4h97TtEU9CXhDdm-Ys6RPv4'
 MONGO_URI = 'mongodb+srv://Bishal:Bishal@bishal.dffybpx.mongodb.net/?retryWrites=true&w=majority&appName=Bishal'
-FORWARD_CHANNEL_ID = 6087454087
-CHANNEL_ID = -6087454087
-error_channel_id = 6087454087
+FORWARD_CHANNEL_ID = -4733427779
+CHANNEL_ID = -4733427779
+error_channel_id = -4733427779
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
